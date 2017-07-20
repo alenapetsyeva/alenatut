@@ -1,7 +1,7 @@
 ---
 title: Deploy your mobile web app to SAP HANA Cloud Platform
 description: Deploy your app to SAP HANA Cloud Platform and access it from your desktop and mobile devices
-tags: [ products>sap-hana-cloud-platform, products>sap-web-ide, topic>cloud, topic>mobile, topic>odata, topic>html5, tutorial>beginner, tutorial>t2, tutorial>t3 ]
+tags: [ products>sap-hana-cloud-platform, products>sap-web-ide, topic>cloud, topic>mobile, topic>odata, topic>html5, tutorial>beginner]
 primary_tag: topic>abap-development
 ---
 ## Prerequisites
