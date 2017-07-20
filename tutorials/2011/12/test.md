@@ -1,7 +1,7 @@
 ---
 title: example new
 description: example
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial>beginner, 123, products:analytics/73554900100700000651/01200314690800000638/01200314690900001216 ]
+tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial>beginner, products:analytics/73554900100700000651/01200314690800000638/01200314690900001216 ]
 primary_tag: topic>abap-development
 ---
 
