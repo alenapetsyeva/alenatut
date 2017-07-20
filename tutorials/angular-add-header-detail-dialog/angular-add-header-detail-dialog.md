@@ -2,7 +2,7 @@
 title: AngularJS - Add a header and modal dialog
 description: Adding a header to the Bootstrap page, and a modal dialog box for product details.
 primary_tag: topic>html5
-tags: [  tutorial>beginner, topic>html5, topic>mobile, topic>odata, products>sap-cloud-platform, topic>t5 ]
+tags: [  tutorial>beginner, topic>html5, topic>mobile, topic>odata, products>sap-cloud-platform]
 ---
 ## Prerequisites  
 - **Proficiency:** Beginner
